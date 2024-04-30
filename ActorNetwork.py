@@ -1,6 +1,6 @@
 import numpy as np#789
 import math#567
-from keras.initializations import normal, identity
+from keras.initializations import normal, identity#890
 from keras.models import model_from_json
 from keras.models import Sequential, Model
 from keras.engine.training import collect_trainable_weights
