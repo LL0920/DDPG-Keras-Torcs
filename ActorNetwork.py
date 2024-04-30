@@ -2,7 +2,7 @@ import numpy as np#789
 import math#567
 from keras.initializations import normal, identity#890
 from keras.models import model_from_json
-from keras.models import Sequential, Model
+from keras.models import Sequential, Model#123
 from keras.engine.training import collect_trainable_weights
 from keras.layers import Dense, Flatten, Input, merge, Lambda
 from keras.optimizers import Adam
